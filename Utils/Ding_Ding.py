@@ -7,7 +7,7 @@ from datetime import datetime
 
 import requests
 
-dingding_token = ""
+dingding_token = "652f4471e397a24adead7bbdaf4509bfcf835c52d0f88c03a4132c3f10780e72"
 
 
 def send_dingding_msg(content):
