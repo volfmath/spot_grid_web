@@ -21,7 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'l%zj^i4gdl1dj-ehbi5%la#xfa-&be3rsut$2%4l*^rbl@74)('
+SECRET_KEY = 'gbYPtN2HKuj5ydh3ihWPiMJmRO3OjPFftIQKCbfuEgFU9Hhbv3oOTXKUaLuKhcST'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -31,7 +31,7 @@ ALLOWED_HOSTS = []
 
 BINANCE_CONFIG = {
     "api_key": '',
-    "api_secret": '58TssaJ4Gi3kjSXDN87AngSWqpa9mjLMpHh8cY4yWhqxRwrTh9D36AU7ptNpTEfO',
+    "api_secret": 'PiJUF8SHfdkt6qcb3UKMIPKnubgISfVqfAHrQGpGys1SwLqoc1zbK7l9oQdJyTCM',
     "recv_window": 5000
 }
 
