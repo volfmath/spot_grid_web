@@ -27,8 +27,7 @@ SECRET_KEY = 'gbYPtN2HKuj5ydh3ihWPiMJmRO3OjPFftIQKCbfuEgFU9Hhbv3oOTXKUaLuKhcST'
 DEBUG = True
 
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ["*"]
 BINANCE_CONFIG = {
     "api_key": '',
     "api_secret": 'PiJUF8SHfdkt6qcb3UKMIPKnubgISfVqfAHrQGpGys1SwLqoc1zbK7l9oQdJyTCM',
